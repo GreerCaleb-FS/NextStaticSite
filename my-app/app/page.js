@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main>
       <h1>Welcome to my Static Site!</h1>
-      <p>Bare Bones static site test.</p>
+      <p>Bare Bones static site test using Next.</p>
     </main>
   );
 }
