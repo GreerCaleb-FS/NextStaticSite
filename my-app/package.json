@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GreerCaleb-FS.github.io/NextStaticSite",
+  "homepage": "https://greercaleb-fs.github.io/NextStaticSite",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
